@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Kovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresClavijoRo&theme=dracula&show_icons=true&include_all_commits=true)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresClavijoRo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndresClavijoRo&theme=dracula)](https://git.io/streak-stats)
